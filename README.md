@@ -6,19 +6,19 @@
 - [WPF 책](#wpf-책)
 
 ## WPF Lecture
-- [IValueConverter](https://github.com/devncore/ivalueconverter)
-- [Binding](https://github.com/devncore/wpf-xaml-binding)
-- [DependencyProperty](https://github.com/devncore/dependencyproperty)
-- [WPF Code Rules](https://github.com/devncore/wpf-code-rules)
+- [IValueConverter](https://github.com/jameslee214/ivalueconverter)
+- [Binding](https://github.com/jameslee214/wpf-xaml-binding)
+- [DependencyProperty](https://github.com/jameslee214/dependencyproperty)
+- [WPF Code Rules](https://github.com/jameslee214/wpf-code-rules)
 
 ## WPF Demo
-- [TicTacToe](https://github.com/devncore/tictactoe-wpf)
-- [iCommander](https://github.com/devncore/icommander)
-- [League of Legends](https://github.com/devncore/leagueoflegends)
-- [DevFlow](https://github.com/devncore/devflow)
+- [TicTacToe](https://github.com/jameslee214/tictactoe-wpf)
+- [iCommander](https://github.com/jameslee214/icommander)
+- [League of Legends](https://github.com/jameslee214/leagueoflegends)
+- [DevFlow](https://github.com/jameslee214/devflow)
 
 ## Applications supposedly made with WPF
-- AutoCAD
+- [AutoCAD](#)
 - [Fork](https://git-fork.com/)
 - [SourceTree](#)
 - [Hiworks](#)
