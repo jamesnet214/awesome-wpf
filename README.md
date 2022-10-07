@@ -28,8 +28,9 @@
 - [SourceTree](#)
 - [Hiworks](#)
 - [UI Path](#)
-- [Visual Studio]()
-- [Yahoo Massanger]
+- [Microsoft Visual Studio](#)
+- [Microsoft SQL Server Management Studio](#)
+- [Yahoo Massanger](#)
 
 
 
