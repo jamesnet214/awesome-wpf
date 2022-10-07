@@ -1,4 +1,4 @@
-# awesome-wpf
+# awesome-james-wpf
 
 ## Contents
 - [WPF 연구](#wpf-연구)
