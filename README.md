@@ -5,13 +5,13 @@
 - [WPF 데모](#wpf-데모)
 - [WPF 책](#wpf-책)
 
-## WPF 연구
+## WPF Lecture
 - [IValueConverter](https://github.com/devncore/ivalueconverter)
 - [Binding](https://github.com/devncore/wpf-xaml-binding)
 - [DependencyProperty](https://github.com/devncore/dependencyproperty)
 - [WPF Code Rules](https://github.com/devncore/wpf-code-rules)
 
-## WPF 데모
+## WPF Demo
 - [TicTacToe](https://github.com/devncore/tictactoe-wpf)
 - [iCommander](https://github.com/devncore/icommander)
 - [League of Legends](https://github.com/devncore/leagueoflegends)
