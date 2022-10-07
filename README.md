@@ -6,7 +6,7 @@
 - [WPF 책](#wpf-책)
 
 ## WPF Lecture
-- [IValueConverter](https://github.com/jameslee214/ivalueconverter)
+- [IValueConverter](https://github.com/elena-kim/ivalueconverter)
 - [Binding](https://github.com/jameslee214/wpf-xaml-binding)
 - [DependencyProperty](https://github.com/jameslee214/dependencyproperty)
 - [WPF Code Rules](https://github.com/jameslee214/wpf-code-rules)
