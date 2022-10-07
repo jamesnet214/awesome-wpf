@@ -1,26 +1,21 @@
-# awesome-james-wpf
+# awesome-wpf
 
 ## Contents
 - [WPF 연구](#wpf-연구)
 - [WPF 데모](#wpf-데모)
 - [WPF 책](#wpf-책)
-<br>
 
 ## WPF 연구
 - [IValueConverter](https://github.com/devncore/ivalueconverter)
 - [Binding](https://github.com/devncore/wpf-xaml-binding)
 - [DependencyProperty](https://github.com/devncore/dependencyproperty)
 - [WPF Code Rules](https://github.com/devncore/wpf-code-rules)
- 
-<br>
 
 ## WPF 데모
 - [TicTacToe](https://github.com/devncore/tictactoe-wpf)
 - [iCommander](https://github.com/devncore/icommander)
 - [League of Legends](https://github.com/devncore/leagueoflegends)
 - [DevFlow](https://github.com/devncore/devflow)
-
-<br>
 
 ## Applications supposedly made with WPF
 - AutoCAD
@@ -31,7 +26,6 @@
 - [Microsoft Visual Studio](#)
 - [Microsoft SQL Server Management Studio](#)
 - [Yahoo Massanger](#)
-
 
 ## WPF Books
 
